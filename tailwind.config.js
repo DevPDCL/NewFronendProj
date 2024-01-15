@@ -4,6 +4,9 @@ module.exports = {
   mode: "jit",
   theme: {
     extend: {
+      fontFamily: {
+        'ubuntu': ['"Ubuntu"'],
+      },
       colors: {
         primary: "#ffffff",
         secondary: "#01DF74",

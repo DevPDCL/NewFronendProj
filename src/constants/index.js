@@ -51,46 +51,32 @@ export const navLinks = [
   {
     id: "home",
     icon: home,
-    title: "Home",
+    title: "Patients & Visitors",
   },
   
   {
     id: "services",
     icon: customer,
-    title: "Services",
+    title: "Conditions & Treatments",
   },
   
   {
     id: "work",
     icon: freelance,
-    title: "Work",
+    title: "Centres & Services",
   },
  
   {
     id: "doctors",
     icon: doctor,
-    title: "Doctors",
+    title: "Health Plus",
   },
   {
     id: "branches",
     icon: branch,
-    title: "Branches",
+    title: "Why Choose Us",
   },
-  {
-    id: "news",
-    icon: messages,
-    title: "News",
-  },
-  {
-    id: "about",
-    icon: about,
-    title: "About",
-  },
-  {
-    id: "contact",
-    icon: contact,
-    title:"Contact",
-  },
+  
   
   
 ];
@@ -246,7 +232,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "AMBULANCE SERVICE",
+    name: "HEALTH DIAGNOSIS",
     description:
       "Ambulance BD 24 is the best ambulance service in Dhaka, Bangladesh. We provide emergency ambulance service in Dhaka city and transport patient.",
       tags: [
@@ -267,9 +253,9 @@ const projects = [
     source_code_link: "http://populardiagnostic.com/",
   },
   {
-    name: "BLOOD BANK",
+    name: "HEALTH CONSULTATION",
     description:
-      "Blood Bank Management System (BBMS) under Safe Blood Transfusion Program, HSM, DGHS. Blood Transfusion Transfusion Program, HSM, DGHS.",
+      "Blood Bank Management System  Management System (BBMS) under Safe Blood Transfusion Program, HSM, DGHS. Blood Transfusion Transfusion Program, HSM, DGHS.",
     tags: [
       {
         name: "Incity",
@@ -313,25 +299,25 @@ const projects = [
 const projects1 = [
   {
     name1:"Total Branches",
-    description1:"100+", 
+    description1:"100", 
     image1: office,
     source_code_link: "http://populardiagnostic.com/",
   },
   {
     name1:"Total Patient",
-    description1:"100+", 
+    description1:"100", 
     image1: crowd,
     source_code_link: "http://populardiagnostic.com/",
   },
   {
     name1:"Total Doctors",
-    description1:"100+", 
+    description1:"100", 
     image1: medical,
     source_code_link: "http://populardiagnostic.com/",
   },
   {
     name1:"Happy Patients",
-    description1:"100+", 
+    description1:"100", 
     image1: celebrating,
     source_code_link: "http://populardiagnostic.com/",
   },

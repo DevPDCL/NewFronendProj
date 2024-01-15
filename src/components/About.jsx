@@ -11,7 +11,7 @@ const ServiceCard = ({ index, title, icon }) => (
   <Tilt className='mx-auto xs:w-[250px] w-full'>
     <motion.div
       variants={fadeIn("right", "spring", index * 0.5, 0.75)}
-      className='w-full   rounded-[5px] '
+      className='w-full rounded-[5px]'
     >
       <div
         options={{
@@ -22,8 +22,8 @@ const ServiceCard = ({ index, title, icon }) => (
         className='bg-gray-900/90  rounded-[8px] py-5 px-5 min-h-[130px] flex justify-evenly items-center flex-row'
       >
         
-        <h3 className='text-[white] text-[16px] font-bold text-left'>
-        <a href="" class="hover:none">{title}</a>
+        <h3 className='text-[white] text-[16px] font-ubuntu text-left'>
+        <a href="" className="hover:none">{title}</a>
           
         </h3>
         <a href="">

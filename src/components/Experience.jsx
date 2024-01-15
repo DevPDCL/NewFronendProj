@@ -17,7 +17,7 @@ const ExperienceCard = ({ experience }) => {
    
     <VerticalTimelineElement
       contentStyle={{
-        background: "#00a884",
+        background: "#125133",
         opacity: "90%",
         color: "#fff",
       }}
@@ -37,7 +37,7 @@ const ExperienceCard = ({ experience }) => {
       <div>
         <h3 className='text-white text-[24px] font-bold'>{experience.title}</h3>
         <p
-          className='text-[#00a884] text-[16px] font-semibold'
+          className='text-[#125133] text-[16px] font-semibold'
           style={{ margin: 0 }}
         >
           {experience.company_name}
@@ -61,7 +61,7 @@ const ExperienceCard = ({ experience }) => {
 const Experience = () => {
   return (
     <>
-      <h2 className='text-[#00a884] text-center text-[40px] font-bold'>Popular Group</h2>
+      <h2 className='text-[#125133] text-center text-[40px] font-bold'>Popular Group</h2>
       
 
       <div className='mt-20 flex flex-col'>

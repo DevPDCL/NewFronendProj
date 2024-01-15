@@ -8,7 +8,9 @@ import menu from "./menu.png";
 import down from "./down.png";
 import close from "./close.png";
 import home from "./home.png";
-
+import doct from "./doct.png";
+import app from "./app.png";
+import sea from "./sea.png";
 import medical from "./medical.png";
 import celebrating from "./celebrating.png";
 import office from "./office.png";
@@ -55,6 +57,9 @@ export {
   logo,
   backend,
   medical,
+  sea,
+  app,
+  doct,
   celebrating,
   gmail,
   creator,

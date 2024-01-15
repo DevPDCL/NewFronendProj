@@ -11,11 +11,13 @@ import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
 import CanvasLoader from "./Loader";
 import WelcomeModal from './Modal';
+import Count from './Count';
 
 
 export {
   WelcomeModal,
   Hero,
+  Count,
   Nav,
   Navbar,
   About,
