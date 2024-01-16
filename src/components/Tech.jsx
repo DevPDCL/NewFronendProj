@@ -32,7 +32,7 @@ const Tech = () => {
     <div className="bg-[#ffffff]  opacity-90 mx-auto w-full ">
       <div className="flex flex-row   flex-wrap mt-10 max-w-screen-xl mx-auto justify-center gap-[150px]">
         <div>
-            <h2 className="mb-6 text-sm font-ubuntu text-[#006642] uppercase dark:text-white">Company</h2>
+            <h2 className="mb-6 text-sm font-ubuntu text-[#006642] uppercase dark:text-[#006642]">Company</h2>
             <ul className="text-gray-500 dark:text-gray-400 font-medium">
                 <li className="mb-4">
                     <a href="#" className="font-ubuntu hover:underline">About</a>
@@ -49,7 +49,7 @@ const Tech = () => {
             </ul>
         </div>
         <div>
-            <h2 className="mb-6 text-sm font-ubuntu text-[#006642] uppercase dark:text-white">Help center</h2>
+            <h2 className="mb-6 text-sm font-ubuntu text-[#006642] uppercase dark:text-[#006642]">Help center</h2>
             <ul className="text-gray-500 dark:text-gray-400 font-medium">
                 <li className="mb-4">
                     <a href="#" className="font-ubuntu hover:underline">Discord Server</a>
@@ -66,7 +66,7 @@ const Tech = () => {
             </ul>
         </div>
         <div>
-            <h2 className="mb-6 text-sm font-ubuntu text-[#006642] uppercase dark:text-white">Legal</h2>
+            <h2 className="mb-6 text-sm font-ubuntu text-[#006642] uppercase dark:text-[#006642]">Legal</h2>
             <ul className="text-gray-500 dark:text-gray-400 font-medium">
                 <li className="mb-4">
                     <a href="#" className="font-ubuntu hover:underline">Privacy Policy</a>
@@ -80,7 +80,7 @@ const Tech = () => {
             </ul>
         </div>
         <div>
-            <h2 className="mb-6 text-sm font-ubuntu text-[#006642] uppercase dark:text-white">Download</h2>
+            <h2 className="mb-6 text-sm font-ubuntu text-[#006642] uppercase dark:text-[#006642]">Download</h2>
             <ul className="text-gray-500 dark:text-gray-400 font-medium">
                 <li className="mb-4">
                     <a href="#" className="font-ubuntu hover:underline">iOS</a>
@@ -101,7 +101,7 @@ const Tech = () => {
     <div className="bg-[#f3f3f3] px-4 py-6 mt-5 md:flex md:items-center md:justify-between ">
         
         <div className="flex mt-4 sm:justify-center  md:mt-0 space-x-5 rtl:space-x-reverse max-w-7xl mx-auto">
-        <span className="text-sm text-[#006642] font-ubuntu dark:text-white sm:text-center me-auto">© 2023 <a href="https://flowbite.com/">Popular Diagnostic Centre Ltd.</a>
+        <span className="text-sm text-[#006642] font-ubuntu dark:text-[#006642] sm:text-center me-auto">© 2023 <a href="https://flowbite.com/">Popular Diagnostic Centre Ltd.</a>
         </span>
             
             <a href="#" className="text-[#006642] hover:text-gray-900 dark:hover:text-black">

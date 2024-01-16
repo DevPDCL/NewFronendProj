@@ -91,7 +91,7 @@ const Hero = ({ color }) => {
         
     </div>
     <div className="relative z-0 w-full mb-1 group">
-    <select id="countries" className="block py-2.5 px-0 w-full text-sm text-[#006642] bg-transparent pl-2 border border-[#125133]  border-1 border-[#125133]  dark:text-white dark:border-[#125133] dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer">
+    <select id="countries" className="block py-2.5 px-0 w-full text-sm text-[#006642] bg-transparent pl-2 border border-[#125133]  border-1 border-[#125133]  dark:text-[#006642] dark:border-[#125133] dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer">
   <option  selected>Choose a Branch</option>
   <option  value="US">Dhanmondi</option>
   <option value="CA">Shymoli</option>
@@ -99,7 +99,7 @@ const Hero = ({ color }) => {
   <option value="DE">Uttara</option>
 </select></div>
 <div className="relative z-0 w-full mb-1 group">
-    <select id="countries" className="block py-2.5 px-0 w-full text-sm text-[#006642] bg-transparent pl-2 border border-[#125133]  border-1 border-[#125133]  dark:text-white dark:border-[#125133] dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer">
+    <select id="countries" className="block py-2.5 px-0 w-full text-sm text-[#006642] bg-transparent pl-2 border border-[#125133]  border-1 border-[#125133]  dark:text-[#006642] dark:border-[#125133] dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer">
   <option selected>Choose a Specilization</option>
   <option value="US">Chest Medicine</option>
   <option value="CA">Neuro Medicine</option>
@@ -107,7 +107,7 @@ const Hero = ({ color }) => {
   <option value="DE">Cardiology</option>
 </select></div>
     <div className="relative z-0 w-full mb-1 group">
-    <select id="countries" className="block py-2.5 px-0 w-full text-sm text-[#006642] bg-transparent border border-[#00a884]  border-1 border-[#125133]  dark:text-white dark:border-[#125133] dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer pl-2">
+    <select id="countries" className="block py-2.5 px-0 w-full text-sm text-[#006642] bg-transparent border border-[#00a884]  border-1 border-[#125133]  dark:text-[#006642] dark:border-[#125133] dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer pl-2">
   <option selected>Choose a Day</option>
   <option value="US">Sunday</option>
   <option value="CA">Monday</option>
@@ -147,7 +147,7 @@ const Hero = ({ color }) => {
         
     </div>
     <div className="relative z-0 w-full mb-1 group">
-        <input type="date" name="floating_first_name" placeholder="Notes" id="floating_first_name" className="block py-2.5 px-0 w-full text-sm text-[#006642] bg-transparent border border-[#125133]  border-1 border-[#125133]  dark:text-white dark:border-[#125133] dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer pl-2"  required />
+        <input type="date" name="floating_first_name" placeholder="Date" id="floating_first_name" className="block py-2.5 px-0 w-full text-sm text-[#006642] bg-transparent border border-[#125133]  border-1 border-[#125133]  dark:text-[#006642] dark:border-[#125133] dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer pl-2"  required />
         
     </div>
     <div className="relative z-0 w-full mb-1 group">
@@ -155,7 +155,7 @@ const Hero = ({ color }) => {
         
     </div>
     <div className="relative z-0 w-full mb-1 group">
-    <select id="countries" className="block py-2.5 px-0 w-full text-sm text-[#006642] bg-transparent border border-[#125133]  border-1 border-[#125133]  dark:text-white dark:border-[#125133] dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer pl-2">
+    <select id="countries" className="block py-2.5 px-0 w-full text-sm text-[#006642] bg-transparent border border-[#125133]  border-1 border-[#125133]  dark:text-[#006642] dark:border-[#125133] dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer pl-2">
   <option selected>Choose your Gender</option>
   <option value="US">Male</option>
   <option value="CA">Female</option>
@@ -163,7 +163,7 @@ const Hero = ({ color }) => {
   
 </select></div>
 <div className="relative z-0 w-full mb-1 group">
-    <select id="countries" className="block py-2.5 px-0 w-full text-sm text-[#006642] bg-transparent border border-[#125133]  border-1 border-[#125133]  dark:text-white dark:border-[#125133] dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer pl-2">
+    <select id="countries" className="block py-2.5 px-0 w-full text-sm text-[#006642] bg-transparent border border-[#125133]  border-1 border-[#125133]  dark:text-[#006642] dark:border-[#125133] dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer pl-2">
   <option selected>Choose your Status</option>
   <option value="US">Registered</option>
   <option value="CA">Unregistered</option>
@@ -181,7 +181,7 @@ const Hero = ({ color }) => {
                 <form className="max-w-screen-xl p-[25px] mx-auto">
   <div className="grid md:grid-cols-4  md:gap-12">
   <div className="relative z-0 w-full mb-1 group">
-    <select id="countries" className="block py-2.5 px-0 w-full text-sm text-[#006642] bg-transparent pl-2 border border-[#125133]  border-1 border-[#125133]  dark:text-white dark:border-[#125133] dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer">
+    <select id="countries" className="block py-2.5 px-0 w-full text-sm text-[#006642] bg-transparent pl-2 border border-[#125133]  border-1 border-[#125133]  dark:text-[#006642] dark:border-[#125133] dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer">
   <option selected>Choose a Branch</option>
   <option value="US">Dhanmondi</option>
   <option value="CA">Shymoli</option>

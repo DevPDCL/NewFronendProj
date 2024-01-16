@@ -30,7 +30,7 @@ const Nav = () => {
   return (
     <>
    
-  <nav className={`${styles.paddingX} w-full border-b-[1px] h-[65px] fixed flex flex-col items-center  top-0 z-20 bg-[#f3f3f3]`} >
+  <nav className={`${styles.paddingX} w-full border-b-[1px] h-[65px] fixed flex flex-col items-center  top-0 z-20 bg-[#d5e7d9]`} >
   <div className="w-full h-[65px] flex flex-wrap items-center justify-between max-w-7xl text-[#006642] " >
   <div className="flex flex-row me-auto">
       
