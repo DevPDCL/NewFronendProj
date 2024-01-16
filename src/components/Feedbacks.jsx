@@ -49,7 +49,7 @@ const Feedbacks = () => {
   return (
     <div className={` bg-none `}>
       <div
-        className={` rounded-2xl  min-h-[300px]`}
+        className={`  min-h-[300px]`}
       >
         <motion.div variants={textVariant()}>
           
@@ -57,7 +57,7 @@ const Feedbacks = () => {
          
         </motion.div>
       </div>
-      <div className={`sm:mt-[-220px] flex flex-wrap gap-7`}>
+      <div className={` sm:mt-[-200px] flex flex-wrap gap-7`}>
         {testimonials.map((testimonial, index) => (
           <FeedbackCard key={testimonial.name} index={index} {...testimonial} />
         ))}
