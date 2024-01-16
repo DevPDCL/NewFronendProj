@@ -81,20 +81,20 @@ const Works = () => {
         </div>
         <div className="flex flex-wrap ms-auto ">
           <div className="flex flex-col">
-            <h6 className="text-[#006642] font-ubuntu text-[60px]">27+</h6>
+            <h6 className="text-[#006642] font-ubuntu text-[60px]">27</h6>
               <p className="text-gray-900/50 font-ubuntu text-[20px]">
                 DEPARTMENTS
               </p>
                
           </div>
           <div className="flex flex-col ml-10">
-            <h6 className="text-[#006642] font-ubuntu text-[60px]">500+</h6>
+            <h6 className="text-[#006642] font-ubuntu text-[60px]">500</h6>
               <p className="text-gray-900/50 font-ubuntu text-[20px]">
                 DOCTORS
               </p>
           </div>
           <div className="flex flex-col ml-10">
-            <h6 className="text-[#006642] font-ubuntu text-[60px]">2700+</h6>
+            <h6 className="text-[#006642] font-ubuntu text-[60px]">27000</h6>
               <p className="text-gray-900/50  font-ubuntu text-[20px]">
                 PATIENTS SERVED
               </p>
