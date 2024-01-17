@@ -98,10 +98,10 @@ const Tech = () => {
         </div>
     </div>
     <img src={img} className="flex mt-4 p-5 sm:justify-center w-full max-w-7xl mx-auto "/>
-    <div className="bg-[#f3f3f3] px-4 py-6 mt-5 md:flex md:items-center md:justify-between ">
+    <div className="bg-[#f3f3f3]  px-4 py-6 mt-5 md:flex md:items-center md:justify-between ">
         
         <div className="flex mt-4 sm:justify-center  md:mt-0 space-x-5 rtl:space-x-reverse max-w-7xl mx-auto">
-        <span className="text-sm text-[#006642] font-ubuntu dark:text-[#006642] sm:text-center me-auto">© 2023 <a href="https://flowbite.com/">Popular Diagnostic Centre Ltd.</a>
+        <span className="text-sm text-[#006642] font-ubuntu dark:text-[#006642] sm:text-center me-auto">© 2024 <a href="https://flowbite.com/">PDCL Corporate</a>
         </span>
             
             <a href="#" className="text-[#006642] hover:text-gray-900 dark:hover:text-black">

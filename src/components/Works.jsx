@@ -74,27 +74,27 @@ const Works = () => {
     <>
     <div className="flex flex-row flex-wrap mb-10 gap-10">
     <div className="bg-[#ffffff] mx-auto w-full ">
-      <div className="flex flex-row   flex-wrap max-w-screen-xl mx-auto  ">
-       <div className="w-[480px] text-start ml-3">
+      <div className="flex flex-row  flex-wrap max-w-screen-xl mx-auto  ">
+       <div className="w-[480px]  border-l-[3px]  border-[#006642] border-opacity-50 pl-2  text-start ml-3">
        <h1 className="text-gray-900/50 font-ubuntu font-bold">DISCOVER <span className="text-[#006642] font-ubuntu">POPULAR</span></h1>
          <p className="text-[#006642] font-ubuntu ">Popular Diagnostic Centre Ltd. exists to provide a better patient experience. We are a one-stop-shop for your health, offering caring doctors, world-class diagnostics and much more world-class diagnostics and much more.</p>
         </div>
-        <div className="flex flex-wrap ms-auto ">
-          <div className="flex flex-col">
-            <h6 className="text-[#006642] font-ubuntu text-[60px]">27</h6>
+        <div className="flex flex-wrap items-center justify-center ms-auto ">
+          <div className="flex flex-col items-center me-auto">
+            <h6 className="text-[#006642] font-bold font-ubuntu text-[60px]">27</h6>
               <p className="text-gray-900/50 font-ubuntu text-[20px]">
                 DEPARTMENTS
               </p>
                
           </div>
-          <div className="flex flex-col ml-10">
-            <h6 className="text-[#006642] font-ubuntu text-[60px]">500</h6>
+          <div className="flex items-center flex-col me-auto ml-5">
+            <h6 className="text-[#006642] font-bold font-ubuntu text-[60px]">5000</h6>
               <p className="text-gray-900/50 font-ubuntu text-[20px]">
                 DOCTORS
               </p>
           </div>
-          <div className="flex flex-col ml-10">
-            <h6 className="text-[#006642] font-ubuntu text-[60px]">27000</h6>
+          <div className="flex flex-col items-center mx-auto ml-5">
+            <h6 className="text-[#006642] font-bold font-ubuntu text-[60px]">2700000</h6>
               <p className="text-gray-900/50  font-ubuntu text-[20px]">
                 PATIENTS SERVED
               </p>
